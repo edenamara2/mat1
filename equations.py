@@ -47,15 +47,8 @@ def calculate(x):
     else:
         return exponent(x)*XtimesY(7,x)*XtimesY(x,-1)*sqrt(x,x)
 
-print (calculate(0))
 
 
    
 
  
-#
-
-    
-#def XtimesY (x,y):
-    
-#def calculet ():
